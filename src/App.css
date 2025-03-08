@@ -1,0 +1,6 @@
+
+/* Base styles - minimal since we're using Tailwind */
+#root {
+  width: 100%;
+  margin: 0 auto;
+}
